@@ -2,9 +2,8 @@
 
 A basic website that allows users to add/remove books from a list. I achieved that by using JavaScript objects and arrays.
 
-![](../pika-2022-07-05T11%2040%2052.230Z.png)
-![](../pika-2022-07-05T11%2041%2006.067Z.png)
-![](../pika-2022-07-05T11%2041%2020.853Z.png)
+![](../input.png)
+![](../list.png)
 ## Built With
 
 - Html
